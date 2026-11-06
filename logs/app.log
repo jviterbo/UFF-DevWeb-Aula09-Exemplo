@@ -1,0 +1,5 @@
+2026-11-05 23:31:53,015 INFO     [app] Aplicação iniciada (debug=True)
+2026-11-05 23:31:53,139 INFO     [app] Banco populado com os dados iniciais
+2026-11-05 23:32:07,272 WARNING  [app] 404: GET /favicon.ico
+2026-11-05 23:32:16,601 INFO     [app] Recado concluído: id=3
+2026-11-05 23:32:24,492 INFO     [app] Recado atualizado: id=2
